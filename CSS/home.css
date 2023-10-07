@@ -77,8 +77,6 @@ nav ul li a{
 nav ul li a.active,
 nav ul li a:hover{
     background-color: #1e26275b;
-    
-    
 }
 
 nav .menu-btn i{
@@ -164,7 +162,6 @@ section
     font-weight: 800;
     mask-border: 5px;
     color: rgb(243, 243, 237);
-    
 }
 
 .texto p
@@ -210,7 +207,6 @@ section
 {
     transform: scale(0.9);
     color: #0000008e;
-    
 }
 
 /*END HOME*/
@@ -229,7 +225,6 @@ section
     justify-content: center;
     align-items: center;
     font-family: 'Work Sans', sans-serif;
-
 }
 
 .teste 
@@ -261,7 +256,6 @@ section
     font-size: 50px;
     color: #000000;
     position: absolute;
-
 }
 
 
@@ -304,8 +298,6 @@ section
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
     gap: 2rem;
-       
-    
 }
 
 .texto3f h1
@@ -333,11 +325,11 @@ section
     font-weight: 600;
     color: rgb(216, 216, 199);
     font-family: 'Poppins', sans-serif;
-    
 }
 
 /*END CONTROLE */
 
+/*Equipe*/
 .section4
 {
     
@@ -349,8 +341,7 @@ section
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
-    gap: 2rem;
-          
+    gap: 2rem;  
 }
 
 .imagems4
@@ -389,11 +380,18 @@ section
     
 }
 
+#buy:hover
+{
+    background-color: rgb(54, 221, 54);
+}
 
+#buy a 
+{
+    text-decoration: none;
+    color: #000000;
+}
 
-
-
-
+/*END EQUIPE*/
 
 /*Footer*/
 
