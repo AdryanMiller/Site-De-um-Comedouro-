@@ -220,7 +220,7 @@ section
     background: #fff;
     position: relative;
     display: grid;
-    grid-template-columns: repeat(4, 10fr);
+    grid-template-columns: repeat(6, 10fr);
     gap: 2rem;
     justify-content: center;
     align-items: center;
@@ -239,13 +239,13 @@ section
 #so 
 {
     position: absolute;
-    left: 28%;
+    left: 27%;
 }
 
 #soo 
 {
     position: absolute;
-    left: 63.9%;
+    left: 60%;
 }
 
 .section2 h1
